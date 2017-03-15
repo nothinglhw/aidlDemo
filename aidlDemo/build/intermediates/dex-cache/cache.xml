@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hengwulan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0_8023b37549eba9b4a93156b40f23ffbf204f6d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Androidsdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_33dea743139b029d30f84dcc0c57b7c52a785c2a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b504a86fbabea4daebe840ad8788d0d214a880db">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c67f2f879b1a1a0b25d788377696cbbb78051d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d852db9c99b7a82269a27b32744306fcff6691cc">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ef7b79638fabda2929a3a4b5d036df34e165b61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hengwulan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-6.1.0_8023b37549eba9b4a93156b40f23ffbf204f6d8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_8bc315e4d39416cb1be9d438201638b436028155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_587f784e7fb881d9c756bdf277f31e2fd131fed6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_587f784e7fb881d9c756bdf277f31e2fd131fed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Androidsdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_33dea743139b029d30f84dcc0c57b7c52a785c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_8bc315e4d39416cb1be9d438201638b436028155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_bcb20d022a636475e0947c159655d85b05bf4d92/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hengwulan/Documents/radio/aidlDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bcb20d022a636475e0947c159655d85b05bf4d92.jar" />
+    </item>
+
+</items>
