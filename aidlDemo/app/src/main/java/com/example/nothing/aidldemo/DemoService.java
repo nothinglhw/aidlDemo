@@ -18,7 +18,6 @@ import aidl.IBookManager;
 import aidl.IOnNewBookArrivedListener;
 
 /**
- * @Author: hengwulan
  * @Date: 17/3/10
  * @Time: 上午10:44
  * @Description:
@@ -42,7 +41,7 @@ public class DemoService extends Service {
 
         @Override
         public void addBook(final Book book) throws RemoteException {
-            Log.d("nothingwxq", " current thread is " + Thread.currentThread());
+            Log.d("nothing", " current thread is " + Thread.currentThread());
             mBookList.add(book);
             updateBook(book);
         }
@@ -83,7 +82,7 @@ public class DemoService extends Service {
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
-        Log.d("nothingwxq", "onBind");
+        Log.d("nothing", "onBind");
         return mBinder;
     }
 

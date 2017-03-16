@@ -35,6 +35,12 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    @OnClick(R.id.start_four)
+    public void onStartFourViewClicked(View view) {
+        Intent intent = new Intent(this, FourActivity.class);
+        startActivity(intent);
+    }
+
     public void notify(String desc, Class clazz) {
         Intent perIntent = new Intent(this, clazz);
         perIntent.putExtra("desc", desc);

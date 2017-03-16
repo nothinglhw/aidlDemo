@@ -12,11 +12,29 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_351287c701e14b570eac5e75dcddae5abba75736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="733cab95e270a629e2ce534c0f63e11a7d3d80bc">
+        <dex dex="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52f5844fd32061455ddd11ae52166fdfd8f170b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="0386cb29241694fa4625eb3c72f5a07582364d25">
+        sha1="6543cfdd7ebd2b37608efa0d8373d78f7415f999">
         <dex dex="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1f4ee08621727468c819dc37f6166cb4abb730b0/classes.dex" />
     </item>
     <item
@@ -45,24 +63,6 @@
         revision="23.0.2"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
         <dex dex="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_33dea743139b029d30f84dcc0c57b7c52a785c2a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_351287c701e14b570eac5e75dcddae5abba75736/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="2beb7165158cdf3c881b80f1f55ab63a8d12a52d">
-        <dex dex="/Users/hengwulan/Documents/radio/未命名文件夹/aidlDemo/aidlDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52f5844fd32061455ddd11ae52166fdfd8f170b7/classes.dex" />
     </item>
 
 </items>
